@@ -12,7 +12,7 @@
 # DOES NOT alter the original bim file - it creates a new one
 #
 #
-# # The mapping dictionary is taken from Affymetrix website, and is available
+# The mapping dictionary is taken from Affymetrix website, and is available
 # at  http://www.affymetrix.com/Auth/analysis/downloads/na29/genotyping/GenomeWideSNP_6.na29.annot.csv.zip
 #
 # Usage:
